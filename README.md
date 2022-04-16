@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 My name is Georgiy/George</h1>
-<h2> I'm a backend developer from Mother Russia. Also a great procrastinator. My biggest passions are music🎧 and videogames🎮. Mostly I work with Python🐍 with FastAPI and Flask. Also have experience with Go.
+<h2> I'm a backend developer and also a great procrastinator. My biggest passions are music🎧 and videogames🎮. Mostly I work with Python🐍 with FastAPI and Flask. Also have experience with Go.
 
 
 - 🔭 I’m currently working as a backend developer at Domlick. At free time working on pet projects
