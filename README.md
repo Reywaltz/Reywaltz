@@ -2,9 +2,9 @@
 <h2> I'm a backend developer and also a great procrastinator. My biggest passions are music🎧 and videogames🎮. Mostly I work with Python🐍 with FastAPI and Flask. Also have experience with Go.
 
 
-- 🔭 I’m currently working as a backend developer at Domlick. At free time working on pet projects
+- 🔭 At free time working on pet projects
 
-- 🌱 I’m currently learning **React, IoT platforms, Rust and Raspberry Pi**
+- 🌱 I’m currently learning **Svelte, IoT platforms, Go and Raspberry Pi**
 
 - ⚡ Technologies
 
