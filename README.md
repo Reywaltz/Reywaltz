@@ -10,11 +10,10 @@
 
     ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
     ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-    ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+    ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
     ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
     ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
     ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-    ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
     ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
     ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
     ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
