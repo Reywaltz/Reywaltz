@@ -1,32 +1,38 @@
-<h1 align="center"> Hi there 👋 My name is Georgiy/George</h1>
-<h2> I'm a backend developer and also a great procrastinator. My biggest passions are music🎧 and videogames🎮. Mostly I work with Python🐍 with FastAPI and Flask. Also have experience with Go.
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZuZm0zdWZ6Y29leXh2bHcyNnJvdm43NGxqbnkxbWg1NWJiajl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4SY40ExbxfyOyD91VI/giphy.gif"  />
 
+###
 
-- 🔭 At free time working on pet projects
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reywaltz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Reywaltz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-- 🌱 I’m currently learning **Svelte, IoT platforms, Go and Raspberry Pi**
+###
 
-- ⚡ Technologies
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" height="30" alt="sentry logo"  />
+</div>
 
-    ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-    ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
-    ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
-    ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-    ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-    ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-    ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-    ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-- 👨‍💻 All of my projects are available at [github.com/Reywaltz](https://github.com/Reywaltz)
-
-
-- 📫 How to reach me [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width=3.5%>](https://t.me/Reywaltz)
-
----
-
-<img src="assets\gif\coding.gif">
-
----
-
-![Reywaltz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reywaltz&theme=dark)
+###
